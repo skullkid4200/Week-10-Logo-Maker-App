@@ -66,4 +66,4 @@ SOFTWARE.
 
 GITHUB REPO: https://github.com/skullkid4200/Week-10-Logo-Maker-App
 
-VIDEO WALKTHROUGH: 
+VIDEO WALKTHROUGH: https://drive.google.com/file/d/1shfkGTR_ejowRCJeJtaDYi3USc5vQz8b/view
