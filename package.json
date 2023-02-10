@@ -2,5 +2,30 @@
   "dependencies": {
     "inquirer": "^8.0.0",
     "install": "^0.13.0"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.4.2"
+  },
+  "name": "week-10-logo-maker-app",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skullkid4200/Week-10-Logo-Maker-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skullkid4200/Week-10-Logo-Maker-App/issues"
+  },
+  "homepage": "https://github.com/skullkid4200/Week-10-Logo-Maker-App#readme"
 }
